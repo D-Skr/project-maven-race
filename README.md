@@ -34,4 +34,4 @@ Example: `C:\Users\leo12\.jdks\openjdk-18.100.21.42\bin\java.exe" -jar "C:\temp\
 
 # Have fun!
 
-P.S. also you can wrap your far-JAR-file into EXE with https://launch4j.sourceforge.net 
+P.S. also you can wrap your fat-JAR-file into EXE with https://launch4j.sourceforge.net 
