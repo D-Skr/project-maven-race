@@ -32,6 +32,7 @@ Create executable JAR-file with JavaFX game based on JavaRush game engine.
 2. Start the game `mvn javafx:run` OR `<java18 home path> -jar <path to your file>/project-maven-1.0.jar`
 Example: `C:\Users\leo12\.jdks\openjdk-18.100.21.42\bin\java.exe" -jar "C:\temp\project-maven-1.0.jar`
 
-# Have fun!
-
+# Have fun and wish you to win!
+![img.png](img.png)
+I won after `Integer.MAX_VALUE()` attempts.
 P.S. also you can wrap your fat-JAR-file into EXE with https://launch4j.sourceforge.net 
