@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Miniproject for;JavaRush University)](https://git.io/typing-svg)
+
 # project-maven-race
 ![game GUI](https://cdn.javarush.com/images/article/c0b2cb6c-8d36-4ef0-84be-e2d4e6295ab4/512.webp)
 
-Miniproject for JavaRush University.
 
 ## IDEA
 Create executable JAR-file with JavaFX game based on JavaRush game engine. 
