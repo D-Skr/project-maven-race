@@ -35,4 +35,5 @@ Example: `C:\Users\leo12\.jdks\openjdk-18.100.21.42\bin\java.exe" -jar "C:\temp\
 # Have fun and wish you to win!
 ![img.png](img.png)
 I won after `Integer.MAX_VALUE()` attempts.
+
 P.S. also you can wrap your fat-JAR-file into EXE with https://launch4j.sourceforge.net 
